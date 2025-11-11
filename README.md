@@ -30,7 +30,7 @@ root/
 ### 1. Clone a new project from this template
 Click **“Use this template” → “Create a new repository”** at the top of this page.
 
-*~The remaining steps still be done on your new repository~*
+*The remaining steps still be done on your new repository*
 ### 2. Setup `pyproject.toml`
 ```ini
 [project]
